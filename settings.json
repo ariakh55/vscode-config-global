@@ -17,9 +17,6 @@
     "settingsSync.ignoredSettings": [
         "window.titleBarStyle"
     ],
-    "settingsSync.ignoredExtensions": [
-        "golang.go"
-    ],
     "window.titleBarStyle": "custom",
     "extensions.autoUpdate": "onlyEnabledExtensions",
     "workbench.colorTheme": "Nord"
