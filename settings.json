@@ -1,0 +1,26 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 17,
+    "terminal.integrated.tabs.enabled": true,
+    "workbench.startupEditor": "welcomePageInEmptyWorkbench",
+    "markdown.preview.typographer": true,
+    "workbench.productIconTheme": "fluent-icons",
+    "files.autoSave": "afterDelay",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "php": "html"
+    },
+    "emmet.syntaxProfiles": {
+        "php": "html"
+    },
+    "workbench.editor.decorations.badges": false,
+    "settingsSync.ignoredSettings": [
+        "window.titleBarStyle"
+    ],
+    "settingsSync.ignoredExtensions": [
+        "golang.go"
+    ],
+    "window.titleBarStyle": "custom",
+    "extensions.autoUpdate": "onlyEnabledExtensions",
+    "workbench.colorTheme": "Nord"
+}
