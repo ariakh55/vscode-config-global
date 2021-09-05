@@ -15,6 +15,9 @@
         "php": "html"
     },
     "workbench.editor.decorations.badges": false,
+    "settingsSync.ignoredSettings": [
+        "window.titleBarStyle"
+    ],
     "terminal.integrated.fontFamily": "Delugia Mono Nerd Font",
     "javascript.inlayHints.parameterNames.enabled": "literals",
     "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
