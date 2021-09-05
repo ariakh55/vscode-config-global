@@ -1,6 +1,7 @@
 {
     "workbench.iconTheme": "material-icon-theme",
     "editor.fontSize": 17,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
     "terminal.integrated.tabs.enabled": true,
     "workbench.startupEditor": "welcomePageInEmptyWorkbench",
     "markdown.preview.typographer": true,
@@ -14,10 +15,20 @@
         "php": "html"
     },
     "workbench.editor.decorations.badges": false,
-    "settingsSync.ignoredSettings": [
-        "window.titleBarStyle"
-    ],
+    "terminal.integrated.fontFamily": "Delugia Mono Nerd Font",
+    "javascript.inlayHints.parameterNames.enabled": "literals",
+    "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+    "typescript.inlayHints.parameterNames.enabled": "literals",
+    "editor.suggest.preview": true,
     "window.titleBarStyle": "custom",
     "extensions.autoUpdate": "onlyEnabledExtensions",
-    "workbench.colorTheme": "Nord"
+    "workbench.colorTheme": "Nord",
+    "workbench.colorCustomizations": {
+        "list.focusHighlightForeground": "#f1f9fa",
+        "quickInputList.focusForeground": "#f1f9fa",
+        "editorSuggestWidget.selectedForeground":"#f1f9fa",
+        "list.focusHighlightBackground": "#47737d",
+        "quickInputList.focusBackground": "#47737d",
+        "editorSuggestWidget.selectedBackground":"#47737d"
+    }
 }
